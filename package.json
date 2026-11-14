@@ -1,0 +1,24 @@
+{
+  "name": "foodtracker",
+  "version": "1.0.0",
+  "description": "For tracking what you eat. Counts kkal, nutritions and minerals.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "idb": "^8.0.4",
+    "jsqr": "^1.4.0",
+    "qrcode": "^1.5.4",
+    "vite": "^5.4.21",
+    "vite-plugin-pwa": "^0.20.5",
+    "vitest": "^1.6.1"
+  },
+  "private": true,
+  "type": "module"
+}
